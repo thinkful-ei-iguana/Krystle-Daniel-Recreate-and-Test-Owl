@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stage renders the UI as expected 1`] = `
+<div
+  className="stage-area"
+>
+  <div
+    className="staged-participant"
+  >
+    Koren Templeton
+  </div>
+</div>
+`;

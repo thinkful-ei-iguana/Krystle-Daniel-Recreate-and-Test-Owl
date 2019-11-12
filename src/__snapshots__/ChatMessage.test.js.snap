@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChatMessage component renders clap as expected 1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     clapped
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders join as expected  1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     joined
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders join-stage as expected  1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     joined the stage
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders leave as expected 1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  
+</div>
+`;
+
+exports[`ChatMessage component renders leave-stage as expected 1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     left the stage
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders message as expected 1`] = `
+<div
+  className="chat-message"
+>
+  <div
+    className="chat-avatar"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="chat-name-time"
+  >
+    <span>
+      Koren Templeton
+    </span>
+    <span>
+      Invalid Date
+    </span>
+  </div>
+  <div
+    className="chat-message"
+  >
+    Hi
+  </div>
+  
+</div>
+`;
+
+exports[`ChatMessage component renders raise-hand as expected  1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     raised their hand
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders thumbs-down as expected  1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     gave a thumbs down
+  </div>
+</div>
+`;
+
+exports[`ChatMessage component renders thumbs-up as expected 1`] = `
+<div
+  className="chat-message"
+>
+  
+  
+  
+  <div
+    className="chat-action"
+  >
+    Koren Templeton
+     gave a thumbs up
+  </div>
+</div>
+`;

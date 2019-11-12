@@ -1,0 +1,13 @@
+.chat-message {
+  display: flex;
+  padding-bottom: 0.5rem;
+}
+
+.chat-avatar {
+  width: 2rem;
+}
+
+.chat-avatar img {
+  width: inherit;
+}
+

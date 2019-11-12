@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat component renders the UI as expected when in session but not on stage 1`] = `
+<div
+  className="chat"
+>
+  <div
+    className="chat-message"
+  >
+    <div
+      className="chat-avatar"
+    >
+      <img
+        alt="avatar"
+        src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+      />
+    </div>
+    <div
+      className="chat-name-time"
+    >
+      <span>
+        Frank Runciman
+      </span>
+      <span>
+        Wed Jan 30 2019 05:48:04 GMT-0700 (Mountain Standard Time)
+      </span>
+    </div>
+    <div
+      className="chat-message"
+    >
+      Hello world
+    </div>
+    
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Axe Kubicka
+       gave a thumbs up
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Ashla Attwool
+       gave a thumbs down
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Caty Flucker
+       raised their hand
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Caty Flucker
+       clapped
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Caty Flucker
+       joined
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Frank Runciman
+       joined the stage
+    </div>
+  </div>
+  <div
+    className="chat-message"
+  >
+    
+    
+    
+    <div
+      className="chat-action"
+    >
+      Frank Runciman
+       left the stage
+    </div>
+  </div>
+</div>
+`;

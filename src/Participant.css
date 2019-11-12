@@ -1,0 +1,12 @@
+.participant {
+  display: flex;
+  flex-direction: column;
+}
+
+.participant-avatar {
+  max-width: 2rem;
+}
+
+.participant-avatar img {
+  width: 2rem;;
+}
