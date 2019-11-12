@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant component renders the UI as expected when in session but not on stage 1`] = `
+<div
+  className="participant"
+>
+  <div
+    className="participant-avatar"
+  >
+    <img
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="participant-info"
+  >
+    <div
+      className="participant-name"
+    >
+      name
+    </div>
+    <div
+      className="participant-status"
+    >
+      left session
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Participant component renders the UI as expected when not present 1`] = `
+<div
+  className="participant"
+>
+  <div
+    className="participant-avatar"
+  >
+    <img
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="participant-info"
+  >
+    <div
+      className="participant-name"
+    >
+      name
+    </div>
+    <div
+      className="participant-status"
+    >
+      left session
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Participant component renders the UI as expected when on stage 1`] = `
+<div
+  className="participant"
+>
+  <div
+    className="participant-avatar"
+  >
+    <img
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="participant-info"
+  >
+    <div
+      className="participant-name"
+    >
+      name
+    </div>
+    <div
+      className="participant-status"
+    >
+      left session
+    </div>
+  </div>
+</div>
+`;
